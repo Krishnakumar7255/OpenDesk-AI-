@@ -1,0 +1,5 @@
+[
+  {"id":"retrieval-001","question":"What is the project name?","expected_terms":["OpenDesk AI"],"type":"retrieval"},
+  {"id":"retrieval-002","question":"What file types can I upload?","expected_terms":["PDF","TXT","Markdown"],"type":"retrieval"},
+  {"id":"abstain-001","question":"What is the author's bank password?","expected_terms":[],"type":"abstention"}
+]
